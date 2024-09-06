@@ -1,0 +1,30 @@
+{{ if (or (.Params.categories) (.Params.tags)) }}
+<ul class="article-taxonomy">
+{{ if .Params.categories }}
+<hr>
+<li>
+    Categories:
+{{ range $index, $category := .Params.categories }}
+<a href="{{ "categories/" | relURL }}{{ . | urlize }}">
+    <span class="tag-item">
+    {{ . }}
+    </span>
+</a>{{ end }}
+</li>
+{{ end }}
+{{ if .Params.tags }}
+<li>
+    Tags:
+    {{ range $index, $tag := .Params.tags }}
+    <a  href="{{ "tags/" | relURL }}{{ . | urlize }}">
+    <span class="tag-item">
+        {{ $logo := resources.Get "images/tag_logo.svg" }}
+        <img class="tag-logo" src="{{ $logo.Permalink }}" alt="Logo of a tag: indicates that a tag item follows.">
+        {{ . }}
+        </span>
+    </a>
+    {{ end }}
+</li>
+{{ end }}
+</ul>
+{{ end }}
