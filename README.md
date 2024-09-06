@@ -1,65 +1,59 @@
-# Hugo Another Minimalist Theme
+---
+imgname: 
+  name: "img/main.jpg"
+  alt: "Picture of me"
+  type: image/jpeg
+  
+name: "Astatine"
+personal_title: "Chemical element"
+address: 
+  - 
+    name: Everywhere
+    street: Nowhere
+    postal_code: "000000"
+    locality: Earth
 
-[![Build example site](https://github.com/hugcis/hugo-astatine-theme/actions/workflows/main.yml/badge.svg)](https://github.com/hugcis/hugo-astatine-theme/actions/workflows/main.yml)
+publications:
+  - 
+    me: Rothe, S. 
+    authors:
+        - Andreyev, A. N. 
+        - Antalic, S.
+        - Borschevsky, A.
+        - Capponi, L.
+        - Cocolios, T. E.
+        - De Witte, H.
+        - Eliav, E
+    title: "Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy"
+    date: 2013
+    journal: Nature Communications
+    image: img/paper_illustration.png
+    citation: "@article{article,\n
+author = {Rothe, Sebastian and Andreyev, A and Antalic, Stanislav and Borschevsky, Anastasia and Capponi, Luigi and Cocolios, Thomas and De Witte, Hilde and Eliav, Ephraim and Fedorov, D.V. and Fedosseev, Valentin and Fink, D and Fritzsche, s and Ghys, Lars and Huyse, M and Imai, Nobuaki and Kaldor, U and Kudryavtsev, Yu and Koester, Ulli and Lane, J and Wendt, Klaus},\n
+year = {2013},\n
+month = {05},\n
+pages = {1835},\n
+title = {Measurement of the first ionization potential of astatine by laser ionization spectroscopy},\n
+volume = {4},\n
+journal = {Nature communications},\n
+doi = {10.1038/ncomms2819}\n
+}"
+    pdf: https://www.nature.com/articles/ncomms2819.pdf
+    links:
+      -
+        name: Main URL
+        url: "https://www.nature.com/articles/ncomms2819"
+      -
+        name: ResearchGate
+        url: "https://www.researchgate.net/publication/236836716_Measurement_of_the_first_ionization_potential_of_astatine_by_laser_ionization_spectroscopy"
+    description: The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.
+---
+# Bio
 
-A simple responsive blog theme for [Hugo](https://gohugo.io/) designed for
-academics - based on [Natrium](https://github.com/mobybit/hugo-natrium-theme).
+I am a chemical element with the symbol At and atomic number 85. I am 
+the rarest naturally occurring element in the Earth's crust, occurring only as
+the decay product of various heavier elements. All of my isotopes are
+short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 
 
-See [the example site in action](https://hugcis.github.io/hugo-astatine-theme/).
-
-## Screenshots
-
-### Light mode
-
-![Post list screenshot](images/post_list.png)
-
-![Post screenshot](images/post.png)
-
-### Dark mode
-
-![Post list dark screenshot](images/post_list_dark.png)
-
-![Post dark screenshot](images/post_dark.png)
-
-## Features
-
-- Blog
-- Academics
-- Responsive
-- Privacy (no Google)
-- Taxonomies
-- Syntax highlighting
-- Microdata
-
-## Installation
-
-Run the following inside your Hugo site folder:
-
-```
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/hugcis/hugo-astatine-theme
-```
-
-## Configuration
-
-Take a look at the sample [config.toml](https://github.com/hugcis/hugo-astatine-theme/blob/master/exampleSite/config.toml)
-file located in the [exampleSite](https://github.com/hugcis/hugo-astatine-theme/blob/master/exampleSite) folder.
-
-## Content Types
-
-### Post
-
-Used for blog posts. Blog posts are listed on the posts page.
-
-Run `hugo new post/<post-name>.md` to create a post.
-
-## Syntax highlighting
-
-Astatine is using [Chroma](https://gohugo.io/content-management/syntax-highlighting/) and `pygmentsStyle = "native"` by default. If you would like to use another style you have to adjust the colors in `pre` in main.css.
-
-## License
-
-The code is available under the [MIT License](https://github.com/hugcis/hugo-astatine-theme/blob/master/LICENSE.md). 
-
-The content of the example site was partially generated with [Metamorphosum](http://metaphorpsum.com/) (Copyright © 2014 Kyle Stetz, [MIT License](https://github.com/kylestetz/metaphorpsum/blob/master/LICENSE.md)).
+A pure sample of myself has never been assembled, because any macroscopic
+specimen would be immediately vaporized by the heat of its own radioactivity.
