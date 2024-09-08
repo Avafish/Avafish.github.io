@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zewen Long"
   avatar           : "images/profile.jpg"
-  bio              : #"Lorem ipsum College"
+  bio              : "Institute of Automation,\nChinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gjHt8nsAAAAJ&hl=en"
   email            : "zewen.long@cripac.ia.ac.cn"
