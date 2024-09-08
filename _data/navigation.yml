@@ -6,13 +6,13 @@
 
 main:
   - title: "About Me"
-    url: /about/
+    url: /#about-me/
 
   - title: "News"
-    url: /news/
+    url: /#-news/
 
   - title: "Publications"
-    url: /publications/
+    url: /#-publications/
 
   #- title: "Talks"
     #url: /talks/    
@@ -27,10 +27,10 @@ main:
     #url: /year-archive/
 
   - title: "Educations"
-    url: /educations/
+    url: #-/educations/
 
   - title: "CV"
-    url: /cv/
+    url: /#-cv/
     
   #- title: "Guide"
     #url: /markdown/
