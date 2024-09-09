@@ -67,7 +67,7 @@ We propose GOT4Rec, which first utilizes the graph of thoughts (GoT) prompting s
 
 **Zewen Long<sup>\*</sup>**, Liang Wang<sup>\*</sup>, Qiang Liu, Shu Wu
 
-**32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023**
+**32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)**
 
 We propose a personalized interest sustainability modeling framework for sequential POI recommendation (INSPIRE) to capture whether each user's interest in specific POIs will sustain beyond the training time.
 
@@ -79,6 +79,6 @@ We propose a personalized interest sustainability modeling framework for sequent
 
 
 # 📖 Educations
-- *2022.07 - now*, M.S. in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences. Advisor: Prof. Shu Wu.
+- *2022.09 - now*, M.S. in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences. Advisor: Prof. Shu Wu.
 
 - *2018.09 - 2022.07*, B.E. in School of Cyber Security, University of Chinese Academy of Sciences. 
