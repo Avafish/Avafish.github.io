@@ -24,7 +24,7 @@ I am a master student at [Institute of Automation, Chinese Academy of Sciences](
 My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
 
 # 🔥 News
-- *2024.09*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ICLR 2025!
+- *2024.10*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ICLR 2025!
 - *2024.08*: &nbsp;📢 Our paper "GOT4Rec: Graph of Thoughts for Sequential Recommendation" has been submitted to AAAI 2025!
 - *2023.08*: &nbsp;🎉 Our paper "Personalized Interest Sustainability Modeling for Sequential POI Recommendation" has been accepted by CIKM 2023!
 
@@ -36,13 +36,13 @@ My research interests lie in the field of Recommender Systems, with a focus on s
 
 Playing Language Game with LLMs Leads to Jailbreaking
 
-**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
+Yu Peng<sup>\*</sup>, **Zewen Long<sup>\*</sup>**, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
 **Submission to The Thirteenth International Conference on Learning Representations (ICLR 2025).**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
-[[PDF]](pdfs/GOT4Rec.pdf) [[Code]](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4)
+[[PDF]](pdfs/Jailbreak.pdf) [[Code]](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4)
 
 </div>
 </div>
