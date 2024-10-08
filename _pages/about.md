@@ -42,7 +42,7 @@ Playing Language Game with LLMs Leads to Jailbreaking
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
-[[PDF]] [[Code]]
+[[PDF]](pdfs/GOT4Rec.pdf) [[Code]](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4)
 
 </div>
 </div>
